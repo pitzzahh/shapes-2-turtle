@@ -9,7 +9,7 @@ screen.bgcolor("navy")
 
 player = turtle.Turtle()
 player.shape("turtle")
-player.color("#134983")
+player.color("#dc1f2f")
 player.penup()
 
 def draw_star(t, size):
